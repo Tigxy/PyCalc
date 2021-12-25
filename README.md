@@ -17,8 +17,8 @@ in the respective sections.
 ## Installation
 - Install it as usual with `pip`:  
 `python -m pip install git+https://github.com/tigxy/pycalc.git`
-- Or from source:
-``
+- Or from source:  
+`python -m pip install .`
 
 ## Usage
 - Either from the command line: `python -m pycalc "2+2"`
